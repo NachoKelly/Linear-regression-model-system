@@ -21,7 +21,6 @@ http://niharikakhanna.pythonanywhere.com/
 Installation
 Clone the repository:
 
-git clone [https://github.com/nkhanna94/Road-Accident-Analysis-And-Traffic-Severity-Prediction.git](https://github.com/nkhanna94/Road-Accident-Analysis-And-Traffic-Severity-Prediction)
 cd Road-Accident-Analysis-And_Traffic-Severity-Prediction
 Create a virtual environment and activate it:
 
